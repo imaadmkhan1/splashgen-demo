@@ -1,0 +1,2 @@
+# splashgen-demo
+demo
